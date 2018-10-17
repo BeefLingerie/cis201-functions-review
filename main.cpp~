@@ -13,7 +13,7 @@ int main()
 
 	cin >> foo;
 
-	cout << "The number of A\'s or a\'s in the string is: " << number_of(foo) << endl;
+	cout << "The number of A or a in the string is: " << number_of(foo) << endl;
 
 	return 0;
 }
